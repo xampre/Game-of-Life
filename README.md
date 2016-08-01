@@ -29,8 +29,7 @@ Start the server:
 ```sh
 $ npm start
 ```
-
-To run the server in release mode, set the environment variable `NODE_ENV=production`
+navigate your browser to `http://localhost:3000` to see the app running in your browser.
 
 ## Test
 
@@ -44,12 +43,4 @@ Watch and re-run tests:
 
 ```sh
 $ npm run test:watch
-```
-
-## Release
-
-Generate a release build in `dist`:
-
-```sh
-$ npm run build
 ```
